@@ -7,7 +7,7 @@ from eleven_labs import ElevenLabsManager
 from obs_websockets import OBSWebsocketsManager
 from audio_player import AudioManager
 
-ELEVENLABS_VOICE = "Riverp" # Replace this with the name of whatever voice you have created on Elevenlabs
+ELEVENLABS_VOICE = "River" # Replace this with the name of whatever voice you have created on Elevenlabs
 
 BACKUP_FILE = "ChatHistoryBackup.txt"
 
